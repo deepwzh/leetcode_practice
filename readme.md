@@ -10,3 +10,5 @@
  [x] | 9-Palindrome Number | 回文串，用Python做简单的不行
  [x] | 897-Increasing Order Search Tree| 
  [x] | 896-Monotonic Array |  
+ [x] | 900-RLE Iterator| 水题
+ [x] | 901-Online Stock Span |  简单递推
