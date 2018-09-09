@@ -9,6 +9,7 @@
  [x] | 7-Reverse Integer | 简单字符串处理，这里用这道题练习了下正则表达式
  [x] | 8-String to Integer (atoi) | 字符串题，用正则可以简化问题
  [x] | 9-Palindrome Number | 回文串，用Python做简单的不行
+ [x] | 12-Integer to Roman | 字符串题
  [x] | 897-Increasing Order Search Tree| 
  [x] | 896-Monotonic Array |  
  [x] | 900-RLE Iterator| 水题
