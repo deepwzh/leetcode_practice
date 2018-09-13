@@ -13,6 +13,7 @@
  [x] | 12-Integer to Roman | 字符串题
  [x] | 13-Roman to Integer | 字符串题
  [x] | 21-Merge Two Sorted Lists | 简单链表合并
+ [x] | 26-Remove Duplicates from Sorted Array | 简单题
  [x] | 88-Merge Sorted Array | 简单数组操作
  [x] | 897-Increasing Order Search Tree| 
  [x] | 896-Monotonic Array |  
