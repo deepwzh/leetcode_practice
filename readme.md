@@ -16,6 +16,7 @@
  [x] | 17-Letter Combinations of a Phone Number | 简单dfs
  [x] | 19-Remove Nth Node From End of List | 简单链表题
  [x] | 21-Merge Two Sorted Lists | 简单链表合并
+ [x] | 27-Remove Element | 简单题
  [x] | 26-Remove Duplicates from Sorted Array | 简单题
  [x] | 28-Implement strStr() | 简单题
  [x] | 34-Find First and Last Position of Element in Sorted Array | 二分查找    
