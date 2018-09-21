@@ -22,6 +22,7 @@
  [x] | 34-Find First and Last Position of Element in Sorted Array | 二分查找    
  [x] | 35-Search Insert Position | 二分查找
  [x] | 38-Count and Say | 简单题
+ [x] | 46-Permutations | 回溯法，全排列
  [x] | 58-Length of Last Word | 简单题
  [x] | 88-Merge Sorted Array | 简单数组操作
  [x] | 897-Increasing Order Search Tree| 
