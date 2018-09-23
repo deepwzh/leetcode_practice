@@ -24,6 +24,7 @@
  [x] | 38-Count and Say | 简单题
  [x] | 46-Permutations | 回溯法，全排列
  [x] | 48-Rotate Image | 数组
+ [x] | 50-Pow(x, n) | 快速幂
  [x] | 58-Length of Last Word | 简单题
  [x] | 88-Merge Sorted Array | 简单数组操作
  [x] | 897-Increasing Order Search Tree| 
