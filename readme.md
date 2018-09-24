@@ -21,6 +21,7 @@
  [x] | 28-Implement strStr() | 简单题
  [x] | 34-Find First and Last Position of Element in Sorted Array | 二分查找    
  [x] | 35-Search Insert Position | 二分查找
+ [x] | 36-Valid Sudoku | 简单题, 数组
  [x] | 38-Count and Say | 简单题
  [x] | 46-Permutations | 回溯法，全排列
  [x] | 48-Rotate Image | 数组
