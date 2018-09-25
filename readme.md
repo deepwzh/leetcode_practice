@@ -28,6 +28,7 @@
  [x] | 49-Group Anagrams | 简单题，defaultdict的使用
  [x] | 50-Pow(x, n) | 快速幂
  [x] | 58-Length of Last Word | 简单题
+ [x] | 61-Route List | 简单链表
  [x] | 66-Plus One | 简单题
  [x] | 67-Add Binary | 简单题
  [x] | 69-Sqrt(x) | 二分查找
