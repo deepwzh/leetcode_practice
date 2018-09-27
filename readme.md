@@ -19,6 +19,7 @@
  [x] | 27-Remove Element | 简单题
  [x] | 26-Remove Duplicates from Sorted Array | 简单题
  [x] | 28-Implement strStr() | 简单题
+ [x] | 33-Search in Rotated Sorted Array | 二分查找变体，Rotated Sorted Array
  [x] | 34-Find First and Last Position of Element in Sorted Array | 二分查找    
  [x] | 35-Search Insert Position | 二分查找
  [x] | 36-Valid Sudoku | 简单题, 数组
