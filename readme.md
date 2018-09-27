@@ -38,6 +38,7 @@
  [x] | 83-Remove Duplicates from Sorted List | 链表去重
  [x] | 88-Merge Sorted Array | 简单数组操作
  [x] | 100-Same Tree | 树的比较
+ [x] | 104-Maximum Depth of Binary Tree | 树
  [x] | 897-Increasing Order Search Tree| 
  [x] | 896-Monotonic Array |  
  [x] | 900-RLE Iterator| 水题
