@@ -1,3 +1,9 @@
+"""
+二分查找变体（Rotated Sorted Array）：
+这道题相对于朴素的二分查找，多了一些分类讨论判断
+在任意时刻，mid左边和右边必有一边是有序的。
+具体代码如下
+"""
 class Solution:
     def search(self, nums, target):
         """
