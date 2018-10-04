@@ -37,6 +37,7 @@
  [x] | 70-Climbing Stairs | 简单递推
  [x] | 82-Remove Duplicates from Sorted List II | 链表去重
  [x] | 83-Remove Duplicates from Sorted List | 链表去重
+ [x] | 86-Partition List | 链表合并
  [x] | 88-Merge Sorted Array | 简单数组操作
  [x] | 98-Validate Binary Search Tree | 二叉搜索树 
  [x] | 100-Same Tree | 树的比较
