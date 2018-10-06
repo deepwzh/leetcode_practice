@@ -44,7 +44,8 @@
  [x] | 100-Same Tree | 树的比较
  [x] | 104-Maximum Depth of Binary Tree | 树
  [x] | 107-Binary Tree Level Order Traversal II
- [x] | 141-Linked List Cycle | 链表
+ [x] | 141-Linked List Cycle | 链表，快慢指针
+ [x] | 142-Linked List Cycle II | 链表，快慢指针
  [x] | 169-求众数 | 简单题
  [x] | 171-Excel表列序号 | reduce 的使用
  [x] | 897-Increasing Order Search Tree| 
