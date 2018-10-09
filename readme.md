@@ -49,6 +49,7 @@
  [x] | 143-Reorder List | 链表
  [x] | 169-求众数 | 简单题
  [x] | 171-Excel表列序号 | reduce 的使用
+ [x] | 342-Power of Four | 水题
  [x] | 897-Increasing Order Search Tree| 
  [x] | 896-Monotonic Array |  
  [x] | 900-RLE Iterator| 水题
