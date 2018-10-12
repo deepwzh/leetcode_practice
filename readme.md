@@ -49,8 +49,11 @@
  [x] | 143-Reorder List | 链表
  [x] | 169-求众数 | 简单题
  [x] | 171-Excel表列序号 | reduce 的使用
+ [x] | 206-Reverse Linked List | 链表反转
  [x] | 231-Power of Two | 水题
+ [x] | 237-Delete Node in a Linked List | 链表
  [x] | 342-Power of Four | 水题
+ [x] | 817-Linked List Components | 链表
  [x] | 897-Increasing Order Search Tree| 
  [x] | 896-Monotonic Array |  
  [x] | 900-RLE Iterator| 水题
